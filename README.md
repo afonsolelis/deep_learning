@@ -27,6 +27,8 @@ Recurrent Neural Networks (RNNs) operate within the purview of quandaries charac
 
 Natural Language Processing (NLP) constitutes a pivotal field in the domain of artificial intelligence, encompassing a wide spectrum of applications aimed at enabling machines to comprehend, interpret, and generate human language
 
+<center>
+
 | Day one                       |
 |-------------------------------|
 | Deep Learning Basics          |
@@ -49,5 +51,7 @@ Natural Language Processing (NLP) constitutes a pivotal field in the domain of a
 |-------------------------------|
 | Assessment                    |
 | Project                       |
+
+</center>
 
 
