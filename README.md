@@ -27,15 +27,27 @@ Recurrent Neural Networks (RNNs) operate within the purview of quandaries charac
 
 Natural Language Processing (NLP) constitutes a pivotal field in the domain of artificial intelligence, encompassing a wide spectrum of applications aimed at enabling machines to comprehend, interpret, and generate human language
 
-| Title                         | Hours |
-|-------------------------------|-------|
-| Deep Learning Basics          |   2   |
-| Optimizer, Loss & Fitting     |   2   |
-| Convolutional Neural Networks |   4   |
-| Recurrent Neural Networks     |   4   |
-| Natural Language Processing   |   4   |
-| Challenges                    |   8   |
-| Assessment                    |   4   |
-| Project                       |   4   |
+| Day one                       |
+|-------------------------------|
+| Deep Learning Basics          |
+| Optimizer, Loss & Fitting     |
+| Challenges                    |
+
+
+| Day two                       |
+|-------------------------------|
+| Convolutional Neural Networks |
+| Recurrent Neural Networks     |
+| Challenges                    |
+
+| Day three                     |
+|-------------------------------|
+| Natural Language Processing   |
+| Challenges                    |
+
+| Day four                      |
+|-------------------------------|
+| Assessment                    |
+| Project                       |
 
 
