@@ -37,6 +37,7 @@ Natural Language Processing (NLP) constitutes a pivotal field in the domain of a
 
 | Day one                       |
 |-------------------------------|
+| Setup                         |
 | Deep Learning Basics          |
 | Optimizer, Loss & Fitting     |
 | Challenges                    |
