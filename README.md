@@ -1,5 +1,11 @@
 # Syllabus Estiam Deep Learning
 
+To start the module, you will need docker and docker compose, and run:
+
+```bash
+docker build -t meu-jupyter-notebook . && docker run -p 8888:8888 meu-jupyter-notebook
+```
+
 The Deep Learning (DL) module constitutes a multifaceted yet profoundly captivating domain within the purview of inquiry. Encompassed within the expansive expanse of DL's ambit are a plethora of domains ranging from image, video, and audio perception to vehicular safety systems encompassing functionalities such as automated braking, cruise control, and lane assistance, among others.
 
 ## Deep Learning Basics
