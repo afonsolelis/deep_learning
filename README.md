@@ -1,16 +1,14 @@
 # Syllabus Estiam Deep Learning
 
-To start the module, you will need docker and docker compose, and run:
-
-```bash
-docker build -t meu-jupyter-notebook . && docker run -p 8888:8888 meu-jupyter-notebook
-```
+To start the module, you will need google colab!
 
 The Deep Learning (DL) module constitutes a multifaceted yet profoundly captivating domain within the purview of inquiry. Encompassed within the expansive expanse of DL's ambit are a plethora of domains ranging from image, video, and audio perception to vehicular safety systems encompassing functionalities such as automated braking, cruise control, and lane assistance, among others.
 
-## Deep Learning Basics
+## Deep Learning Basics - [link](https://colab.research.google.com/drive/1smvInIgEqjiAk8OU1SBAJpI81rLjN66g?usp=sharing)
 
 Within this instructional unit, our aim is to impart fundamental tenets of Deep Learning (DL), thereby bestowing upon you a comprehensive overview of the essence of DL. Of paramount significance is the elucidation of a pivotal architectural construct that presides over the realm of Deep Learning, namely, the neural network.
+
+[Module challenge](https://colab.research.google.com/drive/1smvInIgEqjiAk8OU1SBAJpI81rLjN66g?usp=sharing)
 
 ## Optimizer, Loss & Fitting
 
