@@ -8,7 +8,7 @@ The Deep Learning (DL) module constitutes a multifaceted yet profoundly captivat
 
 Within this instructional unit, our aim is to impart fundamental tenets of Deep Learning (DL), thereby bestowing upon you a comprehensive overview of the essence of DL. Of paramount significance is the elucidation of a pivotal architectural construct that presides over the realm of Deep Learning, namely, the neural network.
 
-[deep_learning_basics challenge](https://colab.research.google.com/drive/1smvInIgEqjiAk8OU1SBAJpI81rLjN66g?usp=sharing)
+[deep_learning_basics challenge](https://colab.research.google.com/drive/1gADUNG-40nUgqSQCq3Ocbw9WTKb_DqBt?usp=sharing)
 
 ## Optimizer, Loss & Fitting
 
