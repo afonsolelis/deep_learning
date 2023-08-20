@@ -16,7 +16,7 @@ Upon acquiring the initial arsenal of competencies requisite for the manipulatio
 
 A pivotal facet of this instructional odyssey involves the cultivation of proficiency in discerning and implementing the judicious refinement mechanisms that catalyze the operational efficiency of NNs. This perspicacious journey culminates in equipping you to harness the latent potential of NNs for the discernment and mitigation of credit card fraud—a quintessential challenge that underscores the confluence of theoretical understanding and pragmatic application in the realm of neural network-enabled solutions.
 
-[optimizer_challenge](https://google.com.br)
+[optimizer_challenge](https://colab.research.google.com/drive/1Q-LkcdJXMMTkiY8GmyVPeY-z3h7MLkBp?usp=sharing)
 
 ## Convolutional Neural Networks - [link](https://google.com.br)
 
