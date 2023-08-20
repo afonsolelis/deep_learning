@@ -38,6 +38,8 @@ Natural Language Processing (NLP) constitutes a pivotal field in the domain of a
 
 [nlp_challenge](https://google.com.br)
 
+## Timeline
+
 <center>
 
 | Day one                       |
