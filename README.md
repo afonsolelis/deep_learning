@@ -18,7 +18,7 @@ A pivotal facet of this instructional odyssey involves the cultivation of profic
 
 [optimizer_challenge](https://colab.research.google.com/drive/1Q-LkcdJXMMTkiY8GmyVPeY-z3h7MLkBp?usp=sharing)
 
-## Convolutional Neural Networks - [link](https://google.com.br)
+## [Convolutional Neural Networks](https://google.com.br)
 
 At this juncture, a paradigm shift is imminent as we embark upon an ascent to a higher echelon of comprehension, thereby engendering an erudition of Convolutional Neural Networks (CNNs). Should the anticipation of delving into the realms of image recognition have been your prevailing disposition, the juncture has duly arrived. CNNs constitute the linchpin of processing and imbuing images with a semblance of "comprehension," a pivotal tenet that finds applicability in diverse domains, such as automated caption generation and facial recognition, among an array of other nuanced applications.
 
@@ -26,13 +26,13 @@ The discourse herein is poised to unravel the intricacies of CNNs, illuminating 
 
 [cnn_challenge](https://google.com.br)
 
-## Recurrent Neural Networks - [link](https://google.com.br)
+## [Recurrent Neural Networks](https://google.com.br)
 
 Recurrent Neural Networks (RNNs) operate within the purview of quandaries characterized by sequential data constituting the input milieu. Conundrums of this nature encompass an eclectic array of domains, including but not limited to video analysis, stock market valuation, and meteorological prognostications. The intrinsic ability of RNNs to grapple with the temporal dynamics inherent to sequential data renders them an indispensable toolset for addressing multifarious challenges situated within these aforementioned spheres.
 
 [rnn_challenge](https://google.com.br)
 
-## Natural Language Processing - [link](https://google.com.br)
+## [Natural Language Processing](https://google.com.br)
 
 Natural Language Processing (NLP) constitutes a pivotal field in the domain of artificial intelligence, encompassing a wide spectrum of applications aimed at enabling machines to comprehend, interpret, and generate human language
 
