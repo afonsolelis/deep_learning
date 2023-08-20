@@ -10,7 +10,7 @@ Within this instructional unit, our aim is to impart fundamental tenets of Deep 
 
 [deep_learning_basics challenge](https://colab.research.google.com/drive/1gADUNG-40nUgqSQCq3Ocbw9WTKb_DqBt?usp=sharing)
 
-## Optimizer, Loss & Fitting - [link]([https://google.com.br](https://colab.research.google.com/drive/13JDkFj7rezskDRzhIsp9HLa1ZR1ZV8lI?usp=sharing)
+## Optimizer, Loss & Fitting - [link](https://google.com.br](https://colab.research.google.com/drive/13JDkFj7rezskDRzhIsp9HLa1ZR1ZV8lI?usp=sharing)
 
 Upon acquiring the initial arsenal of competencies requisite for the manipulation of neural networks (NNs), our pedagogical trajectory endeavors to augment your repertoire. This augmentation manifests through the elucidation of the art of precision calibration within NNs, thereby imbuing you with the capacity to adeptly optimize these constructs to align with your desired outcomes.
 
