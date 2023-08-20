@@ -4,13 +4,13 @@ To start the module, you will need google colab!
 
 The Deep Learning (DL) module constitutes a multifaceted yet profoundly captivating domain within the purview of inquiry. Encompassed within the expansive expanse of DL's ambit are a plethora of domains ranging from image, video, and audio perception to vehicular safety systems encompassing functionalities such as automated braking, cruise control, and lane assistance, among others.
 
-## Deep Learning Basics - [link](https://colab.research.google.com/drive/1smvInIgEqjiAk8OU1SBAJpI81rLjN66g?usp=sharing)
+## [Deep Learning Basics](https://colab.research.google.com/drive/1smvInIgEqjiAk8OU1SBAJpI81rLjN66g?usp=sharing)
 
 Within this instructional unit, our aim is to impart fundamental tenets of Deep Learning (DL), thereby bestowing upon you a comprehensive overview of the essence of DL. Of paramount significance is the elucidation of a pivotal architectural construct that presides over the realm of Deep Learning, namely, the neural network.
 
 [deep_learning_basics challenge](https://colab.research.google.com/drive/1gADUNG-40nUgqSQCq3Ocbw9WTKb_DqBt?usp=sharing)
 
-## Optimizer, Loss & Fitting - [link](https://colab.research.google.com/drive/13JDkFj7rezskDRzhIsp9HLa1ZR1ZV8lI?usp=sharing)
+## [Optimizer, Loss & Fitting](https://colab.research.google.com/drive/13JDkFj7rezskDRzhIsp9HLa1ZR1ZV8lI?usp=sharing)
 
 Upon acquiring the initial arsenal of competencies requisite for the manipulation of neural networks (NNs), our pedagogical trajectory endeavors to augment your repertoire. This augmentation manifests through the elucidation of the art of precision calibration within NNs, thereby imbuing you with the capacity to adeptly optimize these constructs to align with your desired outcomes.
 
