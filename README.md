@@ -1,4 +1,4 @@
-# Syllabus Estiam Deep Learning
+# Deep Learning
 
 To start the module, you will need google colab!
 
