@@ -24,7 +24,7 @@ At this juncture, a paradigm shift is imminent as we embark upon an ascent to a 
 
 The discourse herein is poised to unravel the intricacies of CNNs, illuminating key facets including kernels and convolutions, which serve as the fundamental pillars underpinning the efficacy of CNNs. This elucidation shall pave the way for an adept grasp of the pivotal mechanisms intrinsic to CNNs, thus equipping you with a sophisticated comprehension of their inner workings and facilitating your prowess in harnessing their capabilities for image analysis and interpretation.
 
-[cnn_challenge](https://google.com.br)
+[cnn_challenge](https://colab.research.google.com/drive/18eHGnCXZU6mLjc9-utzCufSJsGvi6exx?usp=sharing)
 
 ## [Recurrent Neural Networks](https://google.com.br)
 
