@@ -26,17 +26,17 @@ The discourse herein is poised to unravel the intricacies of CNNs, illuminating 
 
 [cnn_challenge](https://colab.research.google.com/drive/18eHGnCXZU6mLjc9-utzCufSJsGvi6exx?usp=sharing)
 
-## [Recurrent Neural Networks](https://google.com.br)
+## [Recurrent Neural Networks](https://colab.research.google.com/drive/1K8fktNu5Az6B-XhA0i8U5CVcgwF2GlBj?usp=sharing)
 
 Recurrent Neural Networks (RNNs) operate within the purview of quandaries characterized by sequential data constituting the input milieu. Conundrums of this nature encompass an eclectic array of domains, including but not limited to video analysis, stock market valuation, and meteorological prognostications. The intrinsic ability of RNNs to grapple with the temporal dynamics inherent to sequential data renders them an indispensable toolset for addressing multifarious challenges situated within these aforementioned spheres.
 
-[rnn_challenge](https://google.com.br)
+[rnn_challenge](https://colab.research.google.com/drive/13DNL6A57_bOqlq4wXjuVOH9KhUjBqX_N?usp=sharing)
 
-## [Natural Language Processing](https://google.com.br)
+## [Natural Language Processing](https://colab.research.google.com/drive/1ZPS2SZAlrggW2_8AStLYE-rSx_ytVfDP?usp=sharing)
 
 Natural Language Processing (NLP) constitutes a pivotal field in the domain of artificial intelligence, encompassing a wide spectrum of applications aimed at enabling machines to comprehend, interpret, and generate human language
 
-[nlp_challenge](https://google.com.br)
+[nlp_challenge](https://colab.research.google.com/drive/1A5c5gt3c1Kd_GlF3Oz7F-k98l1EvvIh-?usp=sharing)
 
 ## Timeline
 
