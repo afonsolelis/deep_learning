@@ -18,7 +18,7 @@ A pivotal facet of this instructional odyssey involves the cultivation of profic
 
 [optimizer_challenge](https://colab.research.google.com/drive/1Q-LkcdJXMMTkiY8GmyVPeY-z3h7MLkBp?usp=sharing)
 
-## [Convolutional Neural Networks](https://google.com.br)
+## [Convolutional Neural Networks](https://colab.research.google.com/drive/1gShpkf9Avk996U3ypPMJRA71lm_Hexfb?usp=sharing)
 
 At this juncture, a paradigm shift is imminent as we embark upon an ascent to a higher echelon of comprehension, thereby engendering an erudition of Convolutional Neural Networks (CNNs). Should the anticipation of delving into the realms of image recognition have been your prevailing disposition, the juncture has duly arrived. CNNs constitute the linchpin of processing and imbuing images with a semblance of "comprehension," a pivotal tenet that finds applicability in diverse domains, such as automated caption generation and facial recognition, among an array of other nuanced applications.
 
