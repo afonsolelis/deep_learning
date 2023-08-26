@@ -38,6 +38,14 @@ Natural Language Processing (NLP) constitutes a pivotal field in the domain of a
 
 [nlp_challenge](https://colab.research.google.com/drive/1A5c5gt3c1Kd_GlF3Oz7F-k98l1EvvIh-?usp=sharing)
 
+-----------------------------------------
+
+### Assesment and...
+
+## [Final Project!](https://colab.research.google.com/drive/1BlueLKyMVImmdUKki09Y2bEy9gL9VV_U?usp=sharing)
+
+In the final project you have to use the Word2Vec embedding to perform a sentiment analysis task. You will be able to, based on an input movie review, say whether the comment is positive or negative.
+
 ## Timeline
 
 <center>
