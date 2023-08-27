@@ -76,4 +76,7 @@ In the final project you have to use the Word2Vec embedding to perform a sentime
 
 </center>
 
+### Responses
+[first_challenge](https://colab.research.google.com/drive/1DlgmAOcXI3u9cZsfKbx2BNLov_UdM98J?usp=sharing)
+
 
