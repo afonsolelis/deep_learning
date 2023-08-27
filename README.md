@@ -78,5 +78,9 @@ In the final project you have to use the Word2Vec embedding to perform a sentime
 
 ### Responses
 [first_challenge](https://colab.research.google.com/drive/1DlgmAOcXI3u9cZsfKbx2BNLov_UdM98J?usp=sharing)
+[second_challenge](https://colab.research.google.com/drive/1-t3b7cwmZQZSnOsZwvRpa-xtEdbi_lBJ?usp=sharing)
+[third_challenge](https://colab.research.google.com/drive/1BoEbT9XVAypUb00VCUWqw3On7mGLckkI?usp=sharing)
+[fourth_challenge](https://colab.research.google.com/drive/1JtLPRm-IVLF1-zjF0c5SKBMHhF2xG101?usp=sharing)
+[last_challenge](https://colab.research.google.com/drive/1j2YJlUku9fKQ7XZljFDPVTaEPtJvRfsp?usp=sharing)
 
 
